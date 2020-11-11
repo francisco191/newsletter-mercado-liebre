@@ -1,0 +1,28 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #EAC926;
+    color: #03264C;
+}
+
+.pie {
+    color: #666;
+    font-size: 12px;
+}
+
+
+a {
+    color: #1259c3;
+    text-decoration: none;
+}
+
+
+ul li{
+    list-style-type: none;
+}
+
+h4 {
+    text-transform: uppercase;
+}
